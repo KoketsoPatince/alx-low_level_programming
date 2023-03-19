@@ -6,7 +6,7 @@
 /**
  * main - its the main function. the entry point
  *
- * Return : always zero
+ * Return : always 0 when successful
  */
 int main(void)
 {
