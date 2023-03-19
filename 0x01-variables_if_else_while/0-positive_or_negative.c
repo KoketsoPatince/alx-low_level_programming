@@ -4,7 +4,7 @@
 #include <stdio.h>
 /* betty style doc for function main goes there */
 /**
- * main - entry point
+ * main - this is the main function. the entry point
  *
  * Return: always 0
  */
@@ -20,8 +20,8 @@ int main(void)
 	else if (n == 0)
 		printf("%d is zero\n", n);
 	else if (n < 0)
-		printf("%d is negative\n" n);
-	printf('\n");
+		printf("%d is negative\n", n);
+	printf("\n");
 return(0);
 
 
