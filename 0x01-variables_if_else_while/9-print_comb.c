@@ -18,7 +18,7 @@ int main(void)
          else
             {
 	        putchar(i + '0');
-		putchar('.');
+		putchar(',');
 		putchar(' ');
 	}
 	}
