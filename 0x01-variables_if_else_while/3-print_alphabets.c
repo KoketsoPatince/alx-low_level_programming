@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * main - the entry point,print the alphabet in lowercase,and then in uppercase
+ * main - this is the main function. the entry point.
  *
  * Return - always 0 when successful
  *
