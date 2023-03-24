@@ -8,10 +8,10 @@
 
 void more_numbers(void)
 {
-	int print_number;
+	int j;
 	int i;
 
-	for (print_number = 0; print_number < 10; print_number++)
+	for (j = 0; j < 10; j++)
 	{
 		for (i = 0; i <= 14; i++)
 		{
