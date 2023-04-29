@@ -3,10 +3,10 @@
 #include <stdio.h>
 
 /*
- * add_node- adds a new node at the beginning of a linked list
- * @head: double pointer to the list_t
+ * add_node - Adds a new node at the start of the list.
+ * @head: double pointer to the list
  * @str: new string to add in the node
- * Return: the address of the new element, or NULL if it fails
+ * Return: the address of the new element, or NULL if it unsuccessful
  *
  */
 
