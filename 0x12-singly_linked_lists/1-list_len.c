@@ -1,8 +1,8 @@
 #include "lists.h"
 #include <stddef.h>
 /*
- * list_len - finds the elements in a linked list
- * @h: pointer to the list 
+ * list_len - finds the elements in the list_t list
+ * @h: pointer to the list
  * Return: number of elements in h
  */
 
